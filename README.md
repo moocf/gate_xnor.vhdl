@@ -25,3 +25,4 @@ The XNOR gate (Exclusive NOR) is a logic gate that outputs true only if even num
 ![simulation](docs/simulation.png)
 
 ![report](docs/report.png)
+![](https://ga-beacon.deno.dev/G-G1E8HNDZYY:v51jklKGTLmC3LAZ4rJbIQ/github.com/moocf/gate_xnor.vhdl)
